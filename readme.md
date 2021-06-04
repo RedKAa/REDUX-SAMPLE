@@ -1,3 +1,3 @@
-###LAB:hobby list (REDUX SAMPLE)
--Render list of hobbies
--Add form to add a new hobby
+### LAB:hobby list (REDUX SAMPLE WITHOUT FRAMEWORK)
+- Render list of hobbies
+- Add form to add a new hobby
